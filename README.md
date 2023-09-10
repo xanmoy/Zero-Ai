@@ -1,4 +1,4 @@
-# lab2get
+# Zero AI
 
 ### Install dependencies
 
